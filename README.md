@@ -35,6 +35,8 @@ func cal(student:student)
    var subject = student.subjects
    for subject in subjects
    { totalscore += subject.score
+    }
+}
 ```
 ```
 ex) 
